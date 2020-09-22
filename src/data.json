@@ -1,0 +1,39 @@
+[
+    {
+        "idProduit": 1,
+        "titleProduit": "Casque",
+        "prixProduit":  49.99,
+        "imageProduit": "http://localhost/Assets/casque.jpg"
+    
+    },
+    {
+        "idProduit" : 2,
+        "titleProduit" : "Souris",
+        "prixProduit" : 39.99,
+        "imageProduit": "http://localhost/Assets/Mouse.jpg"
+    },
+    {
+        "idProduit" : 3,
+        "titleProduit" : "PC",
+        "prixProduit" : 1200,
+        "imageProduit": "http://localhost/Assets/PC.jpg"
+    },
+    {
+        "idProduit" : 4,
+        "titleProduit" : "Smartphone",
+        "prixProduit" : 400,
+        "imageProduit": "http://localhost/Assets/phone.jpg"
+    },
+    {
+        "idProduit" : 5,
+        "titleProduit" : "Télévision",
+        "prixProduit" : 2299.99,
+        "imageProduit": "http://localhost/Assets/télévision.jpeg"
+    },
+    {
+        "idProduit" : 6,
+        "titleProduit" : "écouteurs",
+        "prixProduit" : 19.99,
+        "imageProduit": "http://localhost/Assets/écouteur.jfif"
+    }
+]
